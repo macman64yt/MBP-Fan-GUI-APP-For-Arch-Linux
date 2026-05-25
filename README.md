@@ -1,4 +1,4 @@
-# MBP-Fan-GUI-APP-For-Arch-Linux
+# Nicks Fan Control
 This is a app that simplifys mbpfan into a simple gui app
 mbpfan Fan Control App This folder contains a simple Python GUI wrapper for the mbpfan terminal program. Requirements mbpfan installed on your system python3 tkinter support (tk package on Arch) pystray pillow Install the tray dependencies with: pip install -r mbpfan/requirements.txt
 
